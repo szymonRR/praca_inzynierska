@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graf1", "graf1\graf1.csproj", "{FEB48C95-D47C-4E5B-AE25-D8252DF5A5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB48C95-D47C-4E5B-AE25-D8252DF5A5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB48C95-D47C-4E5B-AE25-D8252DF5A5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB48C95-D47C-4E5B-AE25-D8252DF5A5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB48C95-D47C-4E5B-AE25-D8252DF5A5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

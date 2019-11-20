@@ -1,0 +1,9 @@
+C:\Users\szymon\Desktop\c#\graf1\graf1\bin\Debug\graf1.exe.config
+C:\Users\szymon\Desktop\c#\graf1\graf1\obj\Debug\graf1.csprojResolveAssemblyReference.cache
+C:\Users\szymon\Desktop\c#\graf1\graf1\obj\Debug\graf1.Form1.resources
+C:\Users\szymon\Desktop\c#\graf1\graf1\obj\Debug\graf1.Properties.Resources.resources
+C:\Users\szymon\Desktop\c#\graf1\graf1\obj\Debug\graf1.csproj.GenerateResource.Cache
+C:\Users\szymon\Desktop\c#\graf1\graf1\bin\Debug\graf1.exe
+C:\Users\szymon\Desktop\c#\graf1\graf1\bin\Debug\graf1.pdb
+C:\Users\szymon\Desktop\c#\graf1\graf1\obj\Debug\graf1.exe
+C:\Users\szymon\Desktop\c#\graf1\graf1\obj\Debug\graf1.pdb
